@@ -1,4 +1,4 @@
-export interface IStace {
+export interface IStarLink {
     mission_name: string;
     launch_date_local: string;
     launch_site: ILaunchSite;
