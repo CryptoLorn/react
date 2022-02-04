@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    background: cadetblue;
+    height: 50px;
+}
+
+.header div {
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 100px;
+    text-align: center;
+    background: darkcyan;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header div:hover {
+    background: white;
+}
+
+.header a:hover {
+    color: darkcyan;
+}
+
+.body {
+    margin-top: 20px;
+}
