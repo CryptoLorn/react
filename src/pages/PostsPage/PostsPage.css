@@ -1,0 +1,8 @@
+.post_body {
+    display: flex;
+    margin-top: 20px;
+}
+
+.post_details {
+    width: 40%;
+}
