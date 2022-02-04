@@ -1,0 +1,8 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.wrapper {
+    display: flex;
+    gap: 5px;
+}
